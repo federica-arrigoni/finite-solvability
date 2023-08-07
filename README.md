@@ -1,2 +1,2 @@
-# Viewing graph solvaility in practice 
-# Federica Arrigoni, Tomas Pajdla, Andrea Fusiello. ICCV 2023
+Viewing graph solvaility in practice 
+Federica Arrigoni, Tomas Pajdla, Andrea Fusiello. ICCV 2023
