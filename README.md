@@ -1,4 +1,4 @@
-# Matlab code for viewing graph solvability and extracting components.
+# Matlab code for testing viewing graph solvability and extracting components of unsolvable graphs.
 
 References:
 
